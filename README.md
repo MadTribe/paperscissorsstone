@@ -1,5 +1,8 @@
 //Paper Stone and Scissor (PSS) Gaming
 User Can Choose from between 1 to 3 （likewise Stone, Scissor and Paper).
+Required :
+1. Spring boot framework.
+2. MYSQL 
 
 How to run:
 •	Find Main Class from package class "Application"
